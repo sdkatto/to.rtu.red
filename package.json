@@ -21,7 +21,7 @@
   "homepage": "https://github.com/fengxiaoyue/to.rtu.red#readme",
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
-    "next": "^9.3.3",
+    "next": "^11.1.3",
     "node-fetch": "^2.6.0",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
